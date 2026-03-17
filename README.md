@@ -2,6 +2,9 @@
 
 Why did revenue grow 58% and then drop 39% — and which departments caused it?
 
+<img width="2874" height="1636" alt="Financial Performance   Profitability Overview" src="https://github.com/user-attachments/assets/c8bd16dc-af07-4cd1-95ae-3c7d0eb98d5c" />
+
+
 📌 Business Problem
 
 FinEdge Solutions, a B2B SaaS fintech company, had three years of financial transaction data across departments, regions, and revenue streams. However, leadership lacked a clear view of profitability, cost control, and revenue sustainability.
